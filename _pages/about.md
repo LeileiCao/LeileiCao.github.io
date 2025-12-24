@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a Senior Algorithm Engineer at TEX AI of Transsion Holdings (传音控股). My research interests focus on the computer vision and artificical intelligence, specifically on the topic of generative AI, segmentation.  I obtained PhD from Tongji University in 2019. Before joining Transsion, I worked as a Research Fellow at Zhejiang University, an Associate Professor at Northwestern Polytechnical University, a Staff Algorithm Engineer at Ant Group, and a Senior Algorithm Engineer at OPPO.
-[Email](mailto:caoleilei@transsion.com)/[Github](https://github.com/LeileiCao)/[Google Scholoar](https://scholar.google.com/citations?user=-WuU7bQAAAAJ&hl=zh-CN)
+[Email](mailto:caoleilei@transsion.com)/[Github](https://github.com/LeileiCao)/[Google Scholar](https://scholar.google.com/citations?user=-WuU7bQAAAAJ&hl=zh-CN)
 
 A data-driven personal website
 ======
