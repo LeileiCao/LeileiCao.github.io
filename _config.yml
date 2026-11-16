@@ -1,0 +1,28 @@
+# Personal identity settings for al-folio.
+# Merge these values into the existing _config.yml from the al-folio template;
+# do not replace the entire template configuration with this snippet.
+
+title: "Leilei Cao"
+first_name: "Leilei"
+middle_name: ""
+last_name: "Cao"
+email: "mcaoleilei@gmail.com"
+description: >-
+  AI researcher working on computer vision and generative AI,
+  with a focus on image and video generation, editing, and efficient visual intelligence.
+footer_text: >-
+  © 2026 Leilei Cao. All rights reserved.
+
+url: "https://LeileiCao.github.io"
+baseurl: ""
+
+# Academic homepage defaults
+lang: en
+last_updated: true
+back_to_top: true
+navbar_fixed: true
+footer_fixed: false
+max_width: 1000px
+
+# Keep the theme's existing plugins, collections, and defaults.
+# Add or retain the al-folio settings for publications/projects from the template.
